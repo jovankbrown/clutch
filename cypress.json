@@ -1,0 +1,9 @@
+{
+    "baseUrl":"https://httpbin.org" ,
+    "env": {
+    
+        "testUsername":"train9",
+        "testPassword":"call58911"
+    
+    }
+}
